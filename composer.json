@@ -1,11 +1,11 @@
 {
-  "type": "project",
-  "name": "elgg/starter-project",
+  "type": "elgg-plugin",
+  "name": "ewinslow/elgg-react",
   "license": "MIT",
   "prefer-stable": true,
   "minimum-stability": "dev",
   "require": {
-    "elgg/elgg": "2.*"
+    "elgg/elgg": "^2.0"
   },
   "require-dev": {
     "srokap/code_review": "^1.0.5",
@@ -15,5 +15,8 @@
     "post-install-cmd": "\\Elgg\\Composer\\PostInstall::execute",
     "post-package-update": "\\Elgg\\Composer\\PostUpdate::execute",
     "test": "phpunit"
+  },
+  "extra": {
+    "installer-name": "react"
   }
 }

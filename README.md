@@ -1,8 +1,5 @@
-Elgg Starter Project [![Build Status](https://travis-ci.org/Elgg/starter-project.svg?branch=master)](https://travis-ci.org/Elgg/starter-project)
-====
+Elgg React
+==========
 
-This is a quickstart skeleton for building a site based on Elgg 2.x.
-
-## Installation
-
-Follow the instructions for [installing Elgg with Composer](http://learn.elgg.org/en/stable/intro/install.html#overview).
+Provides the "react" and "react-dom" AMD modules and a react/hello page to
+demonstrate their basic use within Elgg.

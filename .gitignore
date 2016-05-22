@@ -1,3 +1,4 @@
+composer.lock
 .*
 !.htaccess
 !.travis.yml
