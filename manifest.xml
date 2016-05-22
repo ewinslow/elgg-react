@@ -4,7 +4,7 @@
 	<id>react</id>
 	<description>Provides 'react' and 'react-dom' AMD modules for use within Elgg</description>
 	<author>Evan Winslow</author>
-	<version>1.1.1</version>
+	<version>1.1.2</version>
 	<license>MIT</license>
 	<requires>
 		<type>elgg_release</type>
